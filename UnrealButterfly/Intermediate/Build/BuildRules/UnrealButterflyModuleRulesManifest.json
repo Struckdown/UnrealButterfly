@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bfley\\Documents\\Github\\UnrealButterfly\\UnrealButterfly\\Source\\UnrealButterfly\\UnrealButterfly.Build.cs",
+		"C:\\Users\\bfley\\Documents\\Github\\UnrealButterfly\\UnrealButterfly\\Source\\UnrealButterfly.Target.cs",
+		"C:\\Users\\bfley\\Documents\\Github\\UnrealButterfly\\UnrealButterfly\\Source\\UnrealButterflyEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

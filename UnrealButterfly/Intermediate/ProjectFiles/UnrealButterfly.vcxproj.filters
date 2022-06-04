@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealButterfly.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealButterfly.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealButterflyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealButterfly">
+      <UniqueIdentifier>{129ADBC1-F7E3-37D6-BBA0-199CA3891365}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealButterfly\UnrealButterfly.Build.cs">
+      <Filter>Source\UnrealButterfly</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealButterfly\UnrealButterfly.cpp">
+      <Filter>Source\UnrealButterfly</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealButterfly\UnrealButterfly.h">
+      <Filter>Source\UnrealButterfly</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealButterfly\UnrealButterflyGameModeBase.cpp">
+      <Filter>Source\UnrealButterfly</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealButterfly\UnrealButterflyGameModeBase.h">
+      <Filter>Source\UnrealButterfly</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealButterfly\Private">
+      <UniqueIdentifier>{70772295-0105-3B97-A89F-96BEA8A44BCE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealButterfly\Private\AContainmentBox.cpp">
+      <Filter>Source\UnrealButterfly\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealButterfly\Private\Boid.cpp">
+      <Filter>Source\UnrealButterfly\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealButterfly\Public">
+      <UniqueIdentifier>{1ADC867A-66FB-3200-8A58-73028884690B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealButterfly\Public\AContainmentBox.h">
+      <Filter>Source\UnrealButterfly\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealButterfly\Public\Boid.h">
+      <Filter>Source\UnrealButterfly\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

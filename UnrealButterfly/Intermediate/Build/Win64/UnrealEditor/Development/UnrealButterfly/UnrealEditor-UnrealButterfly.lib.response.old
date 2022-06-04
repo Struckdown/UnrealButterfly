@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealButterfly.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealButterflyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\Boid.cpp.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\UnrealButterfly.cpp.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\UnrealButterflyGameModeBase.cpp.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\Boid.gen.cpp.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\UnrealButterfly.init.gen.cpp.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\UnrealButterflyGameModeBase.gen.cpp.obj"
+"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\Default.rc2.res"
+/OUT:"C:\Users\bfley\Documents\Github\UnrealButterfly\UnrealButterfly\Intermediate\Build\Win64\UnrealEditor\Development\UnrealButterfly\UnrealEditor-UnrealButterfly.lib"
